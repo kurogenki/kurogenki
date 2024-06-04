@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,go" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,go,python" /> <br /><br />
 
 ## Frameworks and Library
 
