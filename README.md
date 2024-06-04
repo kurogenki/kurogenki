@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=vue,nodejs,laravel,wordpress,bootstrap,tailwind,sass" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,vue,nodejs,laravel,wordpress" /> <br /><br />
 
 ## DB and Dev Tools etc
 
