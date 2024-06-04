@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=kurogenki&show_icons=true&locale=en&layout=compact)
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,go" /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=vue,nodejs,laravel,gin,wordpress" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,figma,nginx" /> <br /><br />
+
+
