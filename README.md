@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=vue,nodejs,laravel,gin,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=vue,nodejs,laravel,wordpress" /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" /> <br /><br />
 
 
